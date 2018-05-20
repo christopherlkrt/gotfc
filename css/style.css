@@ -1,0 +1,31 @@
+video{
+	position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+}
+
+.meio{
+	display:flex !important;
+	justify-content:center;
+	align-items:center;
+}
+
+.caixabranca{
+	display: table;
+	margin: 40px auto;
+	min-width: 65%;
+}
+
+.tamanho{
+	margin-top: 2%;
+	background-color: white;
+	min-width: 70%;
+	border-radius: 0.5%;
+}
+
+.todo{
+	margin-top: 300px;
+}
